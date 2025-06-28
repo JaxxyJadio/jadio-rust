@@ -1,0 +1,5 @@
+{
+  "install": "echo Installing {arg}",
+  "uninstall": "echo Uninstalling {arg}",
+  "list": "echo Listing {arg}"
+}
